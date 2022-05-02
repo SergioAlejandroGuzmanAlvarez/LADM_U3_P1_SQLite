@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Depto de recursos humanos</string>
+    <string name="title_home">Areas</string>
+    <string name="title_dashboard">Busqueda</string>
+    <string name="title_notifications">Subdepartamentos</string>
+</resources>
